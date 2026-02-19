@@ -11,3 +11,4 @@ class Store(var shoes: Int = 0, var shirts: Int = 0, var jackets: Int = 0) {
         """.trimIndent()
     }
 }
+
