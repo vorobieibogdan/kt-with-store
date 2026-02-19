@@ -8,9 +8,6 @@ class StoreService {
             shirts += extraShirts
             jackets += extraJackets
         }
-        // TODO: implement
     }
 }
-
-
 
